@@ -646,6 +646,12 @@ http://www.templatemo.com/tm-509-hydro
     padding-top: 12em;
   }
 
+  .navbar-brand-logo-main{
+    width: 120px !important;
+    top: -35px !important;
+  }
+
+
   .blog-header-paxta {
     background: url('../images/paxta.jpg') no-repeat center center !important;
     background-size: cover !important;
